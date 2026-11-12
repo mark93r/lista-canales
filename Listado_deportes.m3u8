@@ -21,6 +21,15 @@ acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",DAZN LaLiga
 acestream://45ee8e08bb341a56b2ed36da327e2e9fee54d13e
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",DAZN LaLiga
+acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",DAZN LaLiga
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",DAZN LaLiga
+acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
+
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/960px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",M. Liga de Campeones
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
@@ -56,6 +65,9 @@ acestream://41f476ec85da28deeb6492a9804c1d493a884627
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/960px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",M. LaLiga
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/960px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",M. LaLiga
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/960px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Deportes",M. LaLiga 2
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
