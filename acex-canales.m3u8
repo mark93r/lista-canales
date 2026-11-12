@@ -80,3 +80,18 @@ acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n7f8ev1600884470.png" group-title="Deportes",beIN SPORTS XTRA
 acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Noticias",La 1
+acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1920px-Logo_La_2.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",La 2
+acestream://ae4c7ebf22f8803b28c72a7ccd464199672fff58
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="Noticias",Antena 3
+acestream://ea8e71ca4c755812bb753838a31f5357426f2876
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="Noticias",Cuatro
+acestream://d72b1859f08c042d89bb46e899465bc62902ffd8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/436/514/png-clipart-lasexta-logo-la-sexta-hd-television-treking-television-angle.png" group-title="Noticias",LaSexta
+acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
