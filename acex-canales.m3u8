@@ -118,16 +118,10 @@ acestream://23b457d4c63c686f1b30589487e47343a1ed9225
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",Golf
-acestream://872608e734992db636eb79426802cd08f4029afb
-
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Golf
 acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",Golf 2
 acestream://1735ff3141fa3820090fad58dc548a1390accae9
-
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Golf 2
-acestream://882074140fca664e119a43294afa2fb4a64917ef
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Cine Español
 acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
