@@ -95,3 +95,57 @@ acestream://d72b1859f08c042d89bb46e899465bc62902ffd8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/436/514/png-clipart-lasexta-logo-la-sexta-hd-television-treking-television-angle.png" group-title="Noticias",LaSexta
 acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Estrenos
+acestream://984053fd86da52b0085947109f54a882d3177da0
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+
+acestream://23b457d4c63c686f1b30589487e47343a1ed9225
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Baloncesto 2
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Cine Español
+acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Clasicos
+acestream://5dc05d8801f1e6834f1f59da2e8f7adc17fa6fd3
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Comedia
+acestream://b5b4cf132f1c655ed2f0aaa759a6012db140740a
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Deportes 6
+acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Documentales
+acestream://3c1b00267a398093848ded743cfdb547e2232216
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Drama
+acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Originales
+acestream://0364449064d322a1bc0f97d568452053810ef8bc
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Romance
+acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Terror
+acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Vamos
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Baloncesto 3
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ HD
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Deportes FHD
+acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Hits
+acestream://bb78482832c454dfbb932912d65726619f924873
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Indie
+acestream://205cf36437bf4e0643398f62f212832d4b8e271f
