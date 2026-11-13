@@ -185,3 +185,15 @@ acestream://60629355bcbaf5ddee9462e66c72895ca6e580d9
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",Caza y Pesca
 acestream://bf81155a02b00125b1b96d026f9808cc9acee93a
+
+#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Nickelodeon
+acestream://d01ce5c616b3bca47f539a589d4148eaa9e5b5e8
+
+#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Disnery Jr.
+acestream://280a92fe6ab989ff95cc744ab3e22b50e7829bed
+
+#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Nick Jr.
+acestream://7e3cfc83b7bd0cd6b1770e2e90216ba10dcf82e7
+
+#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Baby TV
+acestream://d865b49d6ec5844e0bcf8e596ab90a7be8bb28fb
