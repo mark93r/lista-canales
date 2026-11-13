@@ -99,6 +99,15 @@ acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/436/514/png-clipart-lasexta-logo-la-sexta-hd-television-treking-television-angle.png" group-title="Generalistas",LaSexta
 acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
 
+#EXTINF:-1 tvg-logo="--" group-title="Series",Neox
+acestream://5a7c41f2a3d22446cb80dc9c9f9d1f26867bc542
+
+#EXTINF:-1 tvg-logo="--" group-title="Series",Nova
+acestream://d88f53277cbff8bca0d63d17502d72746b115efe
+
+#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Boing
+acestream://04dc4964d2bddf41da7da028397ed2a3feeea710
+
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Estrenos
 acestream://984053fd86da52b0085947109f54a882d3177da0
 
