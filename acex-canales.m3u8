@@ -161,3 +161,27 @@ acestream://bb78482832c454dfbb932912d65726619f924873
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",HBO Max Avances
+acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",SkyShowtime 1
+acestream://d98f8926ec3c7c403cec32530f2ab7725cf88bcf
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",TCM
+acestream://004556418b644afb93952ffab1a7e17fb3bbda6f
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",AXN Movies
+acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",Warner TV
+acestream://b047cae03e6a2a9a1fe10d14a7b0aea7741d0f71
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",Calle 13
+acestream://91d38e143c3495dabf3ddf0497af98a227aeb613
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",Cosmo
+acestream://60629355bcbaf5ddee9462e66c72895ca6e580d9
+
+#EXTINF:-1 tvg-logo="--" group-title="Movistar",Caza y Pesca
+acestream://bf81155a02b00125b1b96d026f9808cc9acee93a
