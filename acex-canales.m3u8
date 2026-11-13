@@ -93,6 +93,9 @@ acestream://ea8e71ca4c755812bb753838a31f5357426f2876
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="Generalistas",Cuatro
 acestream://d72b1859f08c042d89bb46e899465bc62902ffd8
 
+#EXTINF:-1 tvg-logo="--" group-title="Generalistas",Telecinco
+acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/436/514/png-clipart-lasexta-logo-la-sexta-hd-television-treking-television-angle.png" group-title="Generalistas",LaSexta
 acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
 
@@ -149,9 +152,3 @@ acestream://bb78482832c454dfbb932912d65726619f924873
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
-
-#EXTINF:-1 tvg-logo="--" group-title="Noticias",Euronews
-acestream://e5f5c573dc03b3b0cf96ff61c7a29bafb236fbfa
-
-#EXTINF:-1 tvg-logo="--" group-title="Documentales",Discovery
-acestream://70c65418f659838b6c207535af166e159e000ad1
