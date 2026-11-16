@@ -108,40 +108,43 @@ acestream://d88f53277cbff8bca0d63d17502d72746b115efe
 #EXTINF:-1 tvg-logo="--" group-title="Infantiles",Boing
 acestream://04dc4964d2bddf41da7da028397ed2a3feeea710
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Estrenos
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/12/estrenos_movistarplus-696x392.jpg" group-title="Movistar",M+ Estrenos
 acestream://984053fd86da52b0085947109f54a882d3177da0
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2024/12/estrenos_movistarplus-696x392.jpg" group-title="Movistar",M+ Estrenos
+acestream://fe6dead974cebbb7626458a763ff0e2150dffbe0
+
+#EXTINF:-1 tvg-logo="https://objetos-xlk.estaticos-marca.com/files/article_414_widen/uploads/2026/01/15/6968e56dd7689.jpeg" group-title="Movistar",M+
 acestream://23b457d4c63c686f1b30589487e47343a1ed9225
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Baloncesto 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo-1068x601.jpg" group-title="Movistar",M+ Baloncesto 2
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Golf
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Golf-por-M_Color-Positivo_RGB.jpg" group-title="Movistar",Golf
 acestream://8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Golf 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus-1068x601.jpg.webp" group-title="Movistar",Golf 2
 acestream://1735ff3141fa3820090fad58dc548a1390accae9
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Cine Español
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Cine-Espanol-por-M_ColorNegativo_RGB.jpg" group-title="Movistar",M+ Cine Español
 acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Clasicos
 acestream://5dc05d8801f1e6834f1f59da2e8f7adc17fa6fd3
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Comedia
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/logo_comedia_mplus.jpg" group-title="Movistar",M+ Comedia
 acestream://b5b4cf132f1c655ed2f0aaa759a6012db140740a
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Deportes 6
 acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Documentales
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg" group-title="Movistar",M+ Documentales
 acestream://3c1b00267a398093848ded743cfdb547e2232216
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Drama
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFoL4Zwwa0vJq3EWUhHfTzo5ZhZhpTy4EHD9gfhy1Zw&s=10" group-title="Movistar",M+ Drama
 acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Originales
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/logo_originales_mplus.jpg" group-title="Movistar",M+ Originales
 acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Romance
@@ -153,53 +156,53 @@ acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Vamos
 acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Baloncesto 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo-1068x601.jpg" group-title="Movistar",M+ Baloncesto 3
 acestream://7b0193004089d4d29821a5cdf17f407d0d192314
 
 #EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ HD
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Deportes FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3DsmwRY1eNkkPb5e4_gpU916D4ZeHtoFnNYQKFyz4w&s=10" group-title="Movistar",M+ Deportes FHD
 acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Hits
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm62LB7mhYACNLZe5QaD2JWGkrJmy1iWI182v-gOoRw&s=10" group-title="Movistar",M+ Hits
 acestream://bb78482832c454dfbb932912d65726619f924873
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",M+ Indie
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/indie_mplus.jpg" group-title="Movistar",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",HBO Max Avances
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/07/hbomax_avances.jpg" group-title="Movistar",HBO Max Avances
 acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",SkyShowtime 1
+#EXTINF:-1 tvg-logo="https://fotografias-2.larazon.es/assets/2026/05/skyshowtime-new-logo.jpg?width=1900&height=1069" group-title="Movistar",SkyShowtime 1
 acestream://d98f8926ec3c7c403cec32530f2ab7725cf88bcf
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",TCM
+#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.png?v=1714776089100" group-title="Movistar",TCM
 acestream://004556418b644afb93952ffab1a7e17fb3bbda6f
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",AXN Movies
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1" group-title="Movistar",AXN Movies
 acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Warner TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10" group-title="Movistar",Warner TV
 acestream://b047cae03e6a2a9a1fe10d14a7b0aea7741d0f71
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Calle 13
+#EXTINF:-1 tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.svg" group-title="Movistar",Calle 13
 acestream://91d38e143c3495dabf3ddf0497af98a227aeb613
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Cosmo
+#EXTINF:-1 tvg-logo="https://www.navarratelevision.es/media/IMG/2024/5EEC18F1-A0C2-975E-A892DCBCA1590E20.JPG" group-title="Movistar",Cosmo
 acestream://60629355bcbaf5ddee9462e66c72895ca6e580d9
 
-#EXTINF:-1 tvg-logo="--" group-title="Movistar",Caza y Pesca
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3E2JS4r0NbIXdqsc8c0euZ6eTEiVWDG3S1KxmDLif06xVmrR8OrN0hic&s=10" group-title="Movistar;Hobbies",Caza y Pesca
 acestream://bf81155a02b00125b1b96d026f9808cc9acee93a
 
-#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Infantiles",Nickelodeon
 acestream://d01ce5c616b3bca47f539a589d4148eaa9e5b5e8
 
-#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Disnery Jr.
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Infantiles",Disnery Jr.
 acestream://280a92fe6ab989ff95cc744ab3e22b50e7829bed
 
-#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Nick Jr.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Nick_Jr._logo_2023.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Nick Jr.
 acestream://7e3cfc83b7bd0cd6b1770e2e90216ba10dcf82e7
 
-#EXTINF:-1 tvg-logo="--" group-title="Infantiles",Baby TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Baby_TV_2026.svg/revision/latest/scale-to-width-down/300?cb=20260710083840" group-title="Infantiles",Baby TV
 acestream://d865b49d6ec5844e0bcf8e596ab90a7be8bb28fb
