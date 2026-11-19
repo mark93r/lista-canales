@@ -243,9 +243,9 @@ http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Peliculas y Series",Comedy Central
 http:\\90.170.214.40:9700\stream\avatel\comedycentral\master.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.es@SD" tvg-logo="https://i.imgur.com/En2sLlW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Lifestyle",DMAX (Spain)
+#EXTINF:-1 tvg-id="DMAX.es@SD" tvg-logo="https://i.imgur.com/En2sLlW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Documentales",DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://90.163.85.113:8093/stream/51/index.m3u8 
+http://90.163.85.113:8093/stream/51/index.m3u8
 
 #EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
